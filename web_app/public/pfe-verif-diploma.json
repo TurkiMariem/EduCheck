@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pfe-werif-diploma",
+  "private_key_id": "7c8819e8d9dd539f0cc539d185c8a3862eddd221",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC28pjwlUTZqlts\nY+Y7fCqiDKQMqSyiB8J2Vn3PjBsvh/rZKpTi1sbDFu3DAYN2Q9uNfqJbxgtkmy0f\nYtX8WTwH9YWWxDq5wDFiqoDvcwyEfhGas2h9TjEounIMM1hXKOAPREXf3ZjTf2jY\nwf51sIp2nQY/w2JiqAlm3FMT3fPG8tdAieGaC1FwmGHwzQaIagHQ3vqVJjb1uqsB\nRD0rHu7bmJnmXzF245Ph/YuC4qRnoCnNUlgdcht2GEUp2XJIIyF6IHWokmk0pXom\nRuS/jBUmIZMNKn2uQGyM8ddH7DY+GGVDIWgm4as6yKN76fBiWBuGJuaesAq/sasn\no62iveI1AgMBAAECggEABTTmpQ4yfUQLwbbJd3mYra+mFEAqUjAzWMfXC8rv08yk\nbH15lZ0e31rYiHC+FjsR1WHnFVflEhzCeNQIxVugHuqIve+MFlDsduOQXirhjnxs\nsYDtS9z8/teTkFpTvM31K9S5wl3IUC3zmhunS3UrSPs+EXQqPtGLzEl1SdRKxaeD\ne+ro5WC6rCkRiLZ1pvZOVnEUxqTMorFSotrTlat1hBzi+fYnhFKgVpEz/XLzMNCb\nn4JOp1AVGenZKXfvWZ6MKexe60hsu46RU7mAFo80U485RxVXBLrtRqwkZMjnF7MA\nCy1UUEET+gGSxSn62sAE81ASkCGz02Myt5f4JJxGUQKBgQD/PZVlZ+PIukm9uTDc\nryqz4JiDaqvX+l2N2MuhDO728O6i002jqzA0q5UpVtT42RP+GZOBuHN9DT29zzdO\nGqWpo9Zy9TfImWwBBci63KkwIMBkSEYBquofRnCgEyi8FGXDpffmX+CmQD5tR4iD\nER/O+GuNxwI6MtvUy0aCl9ionQKBgQC3ffLLiNXiZjuPOYJycYM0H7UVo7sX4sc7\n7JaP7P++gxjOxAne5IA+9FCP7NVsRQfGk4X+C1Ai1ijprOFk6HFlkEMrZd+IM1/I\nX5WXSq2cPZnMkW3oFxvsM3ASo18vUrNr5pZN4lrpVV8q9oldeozpNJUvUXpCUhZy\nQ2GS0V/weQKBgQDlQnmYdjKBr+JgiaE7+BLRMyGKmRv1iSrTKDHvXOCf6lVO56FL\nK47HIH+AfEAbrVBp4qs9z2HcpzIX9bJlc0XuE/2hkGUkx7ndSUa9oUpOsnxdFxXa\nlZxprymmfs8N8PxfOgprYR819WqdWa1inNUHYNeqp2B2ygvvHQ8eainveQKBgFpA\nleqsvF8mX8c7x0DZOmqp6dzh8sV14v9DiG70aHphaxNQc3Zxt+6/Jt0T5YnijkeL\nCk4BbIImCmudgCOs/RGymoc/DWqlskgRU7fdoHUIC50GLyQIMdDFICvatZfGOsAo\n4+cdHhBE0JGGP9x9yc9u8K4cimESlT3QjK61U1YpAoGARZBEYeV4uj+PYtVn/Gmo\nrNMxcgUh6d2ltmZmhthcj1MiB9EEy8DcpHF5Tx9KtlYueIF7iXRw1Kgb0de8Xivg\n7hwvV2Oor9nsAq/iRgh91fwIaLx6O8BzPTzb5b10X6K4cwkyyDo5aoZkzwkOp1KG\nmSrAyUalLm2OTfYiO4HsUiM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "verifdiploma@pfe-werif-diploma.iam.gserviceaccount.com",
+  "client_id": "117719277863570240648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/verifdiploma%40pfe-werif-diploma.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

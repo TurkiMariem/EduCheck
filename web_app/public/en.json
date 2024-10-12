@@ -1,0 +1,24 @@
+{
+  "en": {
+    "homepage": {
+      "title": [
+        "Easily Verify Certificates with Security",
+        "Easy and Secure: First Tunisia Verification Network",
+        "Easy and Secure: Top Online Tunisian Verification Network",
+        "Easy and Secure: Verification for Certificates",
+        "Easy and Secure: Leading Tunisian Verification Network"
+      ]
+    }
+  },
+  "fr": {
+    "homepage": {
+      "title": [
+        "Vérifier facilement les certificats avec sécurité",
+        "Facile et sécurisé : Premier réseau de vérification tunisien",
+        "Facile et sécurisé : Top réseau de vérification en ligne tunisien",
+        "Facile et sécurisé : Vérification pour les certificats",
+        "Facile et sécurisé : Principal réseau de vérification tunisien"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "addresses": [
+    
+    {
+      "id": 1,
+      "adresse": "0x70c64b89d439c908f376c30e65ae3895e942465c",
+      "location": "",
+      "used": true,
+      "affectedTo": "IssatSo"
+    },
+    {
+      "id": 1,
+      "adresse": "0x878809Dc5ab6Cb8CD81d29E846651bd1dA15eAA1",
+      "location": "",
+      "used": true,
+      "affectedTo": "IssatSo"
+    },
+    {
+      "id": 1,
+      "adresse": "0xebda7d6cdfa64d44c566b7ff2124e325bffc5421",
+      "location": "",
+      "used": true,
+      "affectedTo": "IssatSo"
+    },
+    {
+      "id": 3,
+      "adresse": "0xd36Af931C1F6944d266f213dA91DA24aE0f6b992",
+      "location": "",
+      "used": false,
+      "affectedTo": "1234"
+    },
+    {
+      "id": 5,
+      "adresse": "0x369b5f5F4F6D83200c23F91D75b36A6426BEABF3",
+      "location": "",
+      "affectedTo": "werfv",
+      "used": false
+    },
+    {
+      "id": 4,
+      "adresse": "0x11da1E5E8311e6d0E99adCfBE390be83eDe615D5",
+      "location": "",
+      "affectedTo": "152",
+      "used": false
+    },
+    {
+      "id": 4,
+      "adresse": "0x4A652D3D6afee49b8c5Fbc740Fb7E69C6b8Ec91F",
+      "location": "",
+      "affectedTo": "ezitouna",
+      "used": false
+    }
+  ]
+}
