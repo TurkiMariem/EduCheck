@@ -13,7 +13,7 @@ npm install
 
 After the dependencies are installed, start the server with:
 
-npm run serve
+node server.js
 
 
 2. Second Terminal: Running Truffle
