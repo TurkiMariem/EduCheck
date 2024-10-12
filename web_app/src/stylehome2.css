@@ -1,0 +1,200 @@
+/* style Sign In */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+
+/*services*/
+
+
+/*css de login*/
+/* *,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.parallax-container {
+  position: relative;
+  height: 100vh; 
+  overflow: hidden; 
+}
+.parallax {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.home {
+  position: relative;
+  height: 100vh; /* Set the height of the home section */
+  background-color: #f0f0f0;
+}
+
+.auth-form-container, .login-form, .register-form {
+	display: flex;
+	flex-direction: column;
+  }
+  
+@media screen and (min-width: 600px) {
+	.auth-form-container {
+
+	  border: 1px solid white;
+	  border-radius: 10px;
+	  margin: 0.5rem;
+	}
+  }
+  
+.home2 label {
+	text-align: left;
+	padding: 0.25rem 0;
+  }
+  
+  .home2 input {
+	margin: 0.5rem 0;
+	padding: 1rem;
+	border: none;
+	border-radius: 10px;
+  }
+  
+  .home2 button {
+	border: none;
+	background-color: white;
+	padding: 15px;
+	border-radius: 10px;
+	cursor: pointer;
+	color: #1f054d;
+  }
+  
+.link-btn {
+	background: none;
+	color: white;
+	text-decoration: underline;
+  }
+  
+/*css de formulaire de l'interface admin*/
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.hash{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 550px;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, .5);
+  border-radius: 20px;
+  /*backdrop-filter: blur(20px); */
+  box-shadow: 0 0px 30px rgba(0, 0, 0, .5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  }
+  .signup{
+    margin-top: 1rem;
+    width: 50%;
+    overflow: auto;
+    width: 100%;
+  }
+  .signup select,
+.hash form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hash form button{
+  border: none;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	cursor: pointer;
+	color: red;
+}
+
+
+/*css de listinstitutes*/	
+.home2 .containers {
+  display: flex;
+ }
+	  
+ .home2 .list {
+  margin: 0 0 0 30px;
+  width: 1000px;
+  overflow-x: 'auto';
+  /*overflow-y: scroll;*/
+	  }
+		
+		
+    .home2 table {
+  border-collapse: collapse;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+		  
+.home2 th, .home2 td {
+  text-align: left;
+  padding: 8px;
+}
+		  
+.home2 th{
+  background-color: #083668;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+		  
+.home2 tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.home2 select {
+  width: 200px;
+  height: 30px;
+  font-size: 16px;
+}
+
+#universityDropdown, #instituteDropdown {
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  width: 400px; /* Adjust the width as needed */
+}
+
+/* Create space between the university dropdown and institutes dropdown */
+#instituteDropdown {
+  margin-top: 20px;
+  margin-left: 50px; /* Adjust the margin as needed */
+  margin-bottom: 20px;
+  width : 400px;
+}
+
+.buttonLeft{
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 850px;
+  background-color: #999fd4;
+}
+
+.label-padded{
+  margin-Left: '70px';
+  margin-right: 20px;
+
+}
+
+.input-padded{
+width:200px;
+
+}
+
