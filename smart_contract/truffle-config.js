@@ -1,5 +1,5 @@
 module.exports = {
-  contracts_build_directory: "../verifEducheck/src/contracts",
+  contracts_build_directory: "../web_app/src/contracts",
   networks: {
     develop: {
       host: "127.0.0.1",     // Localhost (default: none)
