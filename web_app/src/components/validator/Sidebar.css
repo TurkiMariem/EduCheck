@@ -1,0 +1,113 @@
+
+.container {
+    display: grid;
+    grid-template-columns: 200px auto;
+    grid-template-rows: auto;
+    grid-template-areas: "sidebar content";
+    height: 100vh;
+    margin-left: 200px;
+  }
+  
+  .sidebar {
+    grid-area: sidebar;
+    background: rgb(236, 81, 81);
+    color: #fff;
+    transition: all 0.5s;
+    height: 100%;
+    width: 250px;
+    margin: 0;
+    
+    
+  }
+  
+  .content {
+    grid-area: content;
+    padding: 20px;
+   
+  }
+  .top_section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .bars {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+  }
+  .link:hover {
+    background-color: #e6e6e6;
+  }
+  
+  .icon {
+    margin-right: 10px;
+  }
+  
+  main {
+    flex-grow: 1;
+    padding: 20px;
+  }
+
+  /*css icones de sidebar*/  
+  .list-icon svg {
+    vertical-align: middle;
+    margin-right: 10px;
+    color: white;
+  }
+  
+  .list-icon-color {
+    color: white;
+  }
+  .add-icon-color {
+    color: white;
+ }
+ 
+ .add-icon svg {
+    vertical-align: middle;
+    margin-right: 10px;
+ }
+ .nav-logo-color {
+  color: white;
+}
+.home-icon svg {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+ .link_text {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 20px;
+}
+.user-icon svg {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.dropdown {
+  color: black;  /* Couleur du texte par défaut */
+}
+
+/* Styles pour le survol (hover) de la classe dropdown */
+.dropdown:hover {
+  background-color: #eaeaea;  /* Couleur de fond au survol */
+  color: black;  /* Couleur du texte au survol */
+  cursor: pointer;  /* Curseur de type main au survol */
+}
+
+  
+  

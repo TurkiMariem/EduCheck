@@ -1,0 +1,145 @@
+.instlist {
+    position: absolute;
+    top: 92%;
+    left: 180%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 550px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0px 30px rgba(0, 0, 0, .5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3px;
+    font-weight: bold;/*mettre en gras Register Diploma*/
+    
+  }
+  .list-diploma-form {
+    max-height: 350px; /* set a max height for the form */
+    overflow-y: scroll; /* add a scrollbar when the content overflows */
+  }
+  .list-image-form {
+    max-height: 350px; /* set a max height for the form */
+    overflow-y: scroll; /* add a scrollbar when the content overflows */
+  }
+  
+  
+  .list-diploma-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+ 
+  .list-diploma-form input[type="text"],
+  .list-diploma-form select {
+    display: inline-block;
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+  }
+
+  
+  .list-diploma-form input[type="file"] {
+    margin-top: 1rem;
+  }
+  
+  
+  
+  .list-diploma-form label.inline {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+  
+  
+  
+ 
+  .ui.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 600px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+  
+}
+
+.ui.modal > .header {
+  background-color: #2185d0;
+  color: white;
+  padding: 1em;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.ui.modal > .content {
+  padding: 2em;
+}
+
+.ui.modal > .actions {
+  padding: 1em;
+  text-align: right;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.ui.modal > .actions > .button {
+  background-color: #2185d0;
+  color: white;
+  border-radius: 5px;
+  padding: 0.5em 1em;
+  margin-left: 1em;
+}
+
+.ui.modal > .actions > .button:hover {
+  background-color: #0a78b2;
+}
+
+
+
+.diploma-image {
+  max-width: 1000%;
+  max-height: 150%;
+  display: block;
+  
+  
+}
+
+.validated {
+  color: green;
+}
+
+.pending {
+  color: orange;
+}
+
+.validateButton {
+  background-color: green;
+  color: white;
+  width: 70px; 
+  height: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.removeButton {
+  background-color: red;
+  color: white;
+  width: 70px; 
+  height: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+}

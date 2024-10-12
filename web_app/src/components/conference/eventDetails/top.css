@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+
+p {
+  margin: 0;
+}
+
+.flex-row-vend {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.top-container {
+  background: linear-gradient(#E4E6DF,#7791BD);
+  border-radius: 0px 0px 30% 30%;
+  margin-left: -10px;
+  width: 101.3%;
+  height: 200px;
+}
+
+.title-event {
+  margin: 50px 0 0 570px;
+
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.edit-btn {
+  margin-left: 40px;
+  width: 15px;
+  height: 15px;
+}
+
+.calendar-icon {
+  display: inline;
+  margin: 12px 0 0 570px;
+  width: 15px;
+  height: 15px;
+}
+
+.date-event {
+  display: inline-block;
+  margin: 0 0 0 10px;
+  font-size: 13px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+}
+
+.delete-btn {
+  margin-left: 150px;
+  font-size: 12px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  color: rgba(255, 173, 50, 1);
+  word-wrap: break-word;
+}

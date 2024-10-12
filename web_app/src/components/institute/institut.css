@@ -1,0 +1,76 @@
+.inst {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 550px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0px 30px rgba(0, 0, 0, .5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-weight: bold;/*mettre en gras Register Diploma*/
+
+  }
+  
+  
+  .signup-form input[type="text"],
+  .signup-form {
+    margin-top: 1rem;
+    width: 50%;
+    overflow: auto;
+    width: 100%;
+  }
+  .signup-form select,
+  
+  .register-diploma-form label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .register-diploma-form input[type="text"],
+  .register-diploma-form select {
+    display: inline-block;
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+  }
+  
+  .register-diploma-form input[type="file"] {
+    margin-top: 1rem;
+  }
+  
+  .register-diploma-form select {
+    height: 2.5rem;
+  }
+  
+  .register-diploma-form label.inline {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+  
+  .register-diploma-form button[type="submit"] {
+    display: block;/*mettre le button au centre*/
+    margin: 0 auto;/*          ////            */
+    margin-top: 1rem;
+    background-color: rgb(226, 77, 77);
+    color: white;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .register-diploma-form button[type="submit"]:hover {
+    background-color: red;
+  }
