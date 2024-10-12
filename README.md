@@ -47,3 +47,6 @@ npm install
 After installation, start the frontend application with:
 
 npm start
+
+
+4- You have to install and run the IPFS Desktop to get a distributed database locally
