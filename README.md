@@ -15,6 +15,8 @@ After the dependencies are installed, start the server with:
 
 node server.js
 
+This command allows to connect to the Mongodb server..
+
 
 2. Second Terminal: Running Truffle
 Open the second terminal.
