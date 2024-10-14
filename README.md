@@ -1,4 +1,11 @@
-# EduCheck
+# EduCheck  demo
+
+The video demonstration of the Educheck solution is available at the following link
+
+https://drive.google.com/file/d/11hNsyMJd8hNUL1XRKHEhYaxGhKklb-Oo/view?usp=sharing
+
+# Installation guide 
+
 This repository contains the source code of the Educheck solution
 This guide explains how to set up and run the project by using three terminal windows. Follow these steps:
 
